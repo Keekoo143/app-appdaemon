@@ -1,8 +1,8 @@
 ---
-name: AppDaemon
+name: AppDaemon (Coach)
 version: dev
-slug: appdaemon
-description: Python Apps and Dashboard using AppDaemon 4.x for Home Assistant
+slug: appdaemon_coach
+description: Eigene AppDaemon-Instanz nur für das Coach-Trainings-Dashboard
 url: https://github.com/hassio-addons/app-appdaemon
 webui: http://[HOST]:[PORT:5050]
 arch:
