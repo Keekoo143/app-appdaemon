@@ -5,6 +5,8 @@ slug: appdaemon_coach
 description: Eigene AppDaemon-Instanz nur für das Coach-Trainings-Dashboard
 url: https://github.com/hassio-addons/app-appdaemon
 webui: http://[HOST]:[PORT:5050]
+ports:
+  5050/tcp: 5051
 arch:
   - aarch64
   - amd64
